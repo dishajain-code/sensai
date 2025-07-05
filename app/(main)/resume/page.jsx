@@ -25,7 +25,7 @@ import { entriesToMarkdown } from "@/app/lib/helper";
 import { resumeSchema } from "@/app/lib/schema";
 
 import { EntryForm } from "./_components/entry-form";
-import {html2pdf} from "html2pdf.js";
+import html2pdf from "html2pdf.js";
 
 
 
